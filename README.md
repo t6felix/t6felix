@@ -1,4 +1,4 @@
-<h1> Olá, me chamo Thiago 👋 </h1>
+<h1> Olá, me chamo Tiago 👋 </h1>
 <a href="https://www.linkedin.com/in/th6felix/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <br>
 <br>
